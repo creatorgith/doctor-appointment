@@ -1,0 +1,44 @@
+body{
+     background-color:lightsteelblue;
+     opacity:1;
+}
+
+.hello {
+     font-size: 25px;
+     font-weight:bold;
+     text-align:left;
+     display: block;
+     
+}
+.padding{
+    border-style:solid black;
+    width: 300px;
+    padding: 10px;
+}
+.extra{
+    border-style:solid black;
+    width: 300px;
+    padding: 50px;
+}
+.box{
+    width: 15px;
+    height: 15px;
+}
+.select{
+    border-style:solid black;
+    width: 322px;
+    padding: 10px;
+}
+.back{
+    background-color:blue;
+    color:black;
+}
+.size{
+    font-size: 30px;
+    border-style:solid black;
+    width: 300px;
+    padding: 10px;
+}
+.size:hover{
+    background-color:whitesmoke;
+}
